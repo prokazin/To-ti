@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Какой ты авто-персонаж?</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <div class="app">
+    <h1>🚘 Какой ты авто-персонаж?</h1>
+    <button id="generateBtn">Узнать</button>
+    <div id="result" class="hidden">
+      <img id="carImage" src="" alt="" />
+      <h2 id="personaText"></h2>
+      <button id="shareBtn">🔗 Поделиться</button>
+    </div>
+  </div>
+  <script src="script.js"></script>
+</body>
+</html>
