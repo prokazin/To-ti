@@ -1,9 +1,9 @@
 const cars = [
-  { name: "Москвич 412", image: "assets/moskvich.png" },
-  { name: "ВАЗ 2107", image: "assets/vaz2107.png" },
-  { name: "Toyota Mark II", image: "assets/mark2.png" },
-  { name: "Газель NEXT", image: "assets/gazel.png" },
-  { name: "УАЗ Hunter", image: "assets/uaz.png" },
+  { name: "Москвич 412", https://raw.githubusercontent.com/prokazin/To-ti/main/images/moskvich412.png },
+  { name: "ВАЗ 2107", https://raw.githubusercontent.com/prokazin/To-ti/main/images/vaz2107.png" },
+  { name: "Toyota Mark II", https://raw.githubusercontent.com/prokazin/To-ti/main/images/mark2.png" },
+  { name: "Газель NEXT", https://raw.githubusercontent.com/prokazin/To-ti/main/images/gazel.png" },
+  { name: "УАЗ Hunter", https://raw.githubusercontent.com/prokazin/To-ti/main/images/uaz.png" },
 ];
 
 const types = ["на газу", "в тюнинге", "без глушителя", "на коврах", "с душой"];
