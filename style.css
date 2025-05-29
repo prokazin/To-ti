@@ -1,0 +1,21 @@
+body {
+  font-family: sans-serif;
+  background: #f5f5f5;
+  text-align: center;
+  padding: 2em;
+}
+
+button {
+  padding: 10px 20px;
+  font-size: 1.2em;
+  cursor: pointer;
+}
+
+.hidden {
+  display: none;
+}
+
+#carImage {
+  max-width: 300px;
+  margin: 1em auto;
+}
